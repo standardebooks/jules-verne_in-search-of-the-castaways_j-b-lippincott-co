@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>t-019</code>
+			<reason>This is a word fragment, not a complete phrase. Punctuation should not be italicized per SEMOS 8.2.4</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
