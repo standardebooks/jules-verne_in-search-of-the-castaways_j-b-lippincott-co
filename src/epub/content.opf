@@ -50,45 +50,44 @@
 		<meta property="term" refines="#subject-6">sh2008100157</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008108586</meta>
-		<meta property="authority" refines="#subject-8">LCSH</meta>
-		<meta property="term" refines="#subject-8">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
+		<meta property="group-position" refines="#collection">5</meta>
+		<dc:description id="description">This novel narrates the quest to find and rescue Captain Grant whose <i>Britannia</i>was shipwrecked.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Following the clues found in a bottle cast into the ocean, Lord Genarvan’s &lt;i&gt;Duncan&lt;/i&gt; set off for South America and then Australia in search of Captain Grant. After an eventful and perilous journey, which gives &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; the opportunity to describe exotic places, the castaway is found and reunited with his children.&lt;/p&gt;; &lt;p&gt;&lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; number 5 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt;collection, has inspired several movie adaptations. Ayrton, one of its characters, reappears in &lt;i lang="fr"&gt;L'Île Mystérieuse&lt;/i&gt; number 12 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection.&lt;/p&gt;</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46597</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/007103191</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_Search_of_the_Castaways</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_in-search-of-the-castaways_j-b-lippincott</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">J. B. Lippincott</dc:contributor>
 		<meta property="file-as" refines="#translator">Lippincott, J. B.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#translator">J. B. Lippincott &amp; Co.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/J._B._Lippincott</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80037020</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Eugène Boudin</dc:contributor>
+		<meta property="file-as" refines="#artist">Boudin, Eugène </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boudin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81139753</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Ema Majhut</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Majhut, Ema</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">D’Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Geneviève Ségol</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Ségol, Geneviève</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
