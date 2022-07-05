@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/in-search-of-the-castaways/j-b-lippincott-co</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-07-05T04:31:30Z</dc:date>
+		<meta property="dcterms:modified">2022-07-05T04:31:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,13 +56,16 @@
 		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">5</meta>
-		<dc:description id="description">This novel narrates the quest to find and rescue Captain Grant whose vessel was shipwrecked.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Following the clues found in a bottle cast into the ocean, Lord Genarvan’s &lt;i&gt;Duncan&lt;/i&gt; set off for South America and then Australia in search of Captain Grant. After an eventful and perilous journey, which gives &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; the opportunity to describe exotic places, the castaway is found and reunited with his children.&lt;/p&gt;; &lt;p&gt;&lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; number 5 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt;collection, has inspired several movie adaptations. Ayrton, one of its characters, reappears in &lt;i lang="fr"&gt;L’Île Mystérieuse&lt;/i&gt; number 12 in the &lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt; collection.&lt;/p&gt;</meta>
+		<dc:description id="description">A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Following the clues found in a bottle cast into the ocean, Lord and Lady Genarvan set off for South America and Australia in their ship &lt;i&gt;Duncan&lt;/i&gt; to search for the shipwrecked Captain Grant. Their eventful and perilous journey gives &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; the opportunity to describe a variety of exotic places.&lt;/p&gt;
+			&lt;p&gt;Originally titled &lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; (“The Children of Captain Grant”), the story has inspired several movie adaptations. Ayrton, one of the characters, reappears in &lt;a href="https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white"&gt;The Mysterious Island&lt;/a&gt;.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46597</dc:source>
 		<dc:source>https://books.google.com/books?id=5GTPmg_4-lwC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">134962</meta>
+		<meta property="se:reading-ease.flesch">64.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_Search_of_the_Castaways</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_in-search-of-the-castaways_j-b-lippincott-co</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -97,6 +100,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
