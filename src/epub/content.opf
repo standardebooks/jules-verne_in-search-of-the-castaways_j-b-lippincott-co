@@ -61,7 +61,7 @@
 		<dc:description id="description">A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Following the clues found in a bottle cast into the ocean, Lord and Lady Genarvan set off for South America and Australia in their ship &lt;i&gt;Duncan&lt;/i&gt; to search for the shipwrecked Captain Grant. Their eventful and perilous journey gives &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; the opportunity to describe a variety of exotic places.&lt;/p&gt;
-			&lt;p&gt;Originally titled &lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; (“The Children of Captain Grant”), the story has inspired several movie adaptations. Ayrton, one of the characters, reappears in &lt;a href="https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white"&gt;The Mysterious Island&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Originally titled &lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; (“The Children of Captain Grant”), the story has inspired several movie adaptations. Ayrton, one of the characters, reappears in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white"&gt;The Mysterious Island&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46597</dc:source>
