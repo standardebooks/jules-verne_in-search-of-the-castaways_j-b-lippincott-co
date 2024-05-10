@@ -67,7 +67,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/46597</dc:source>
 		<dc:source>https://books.google.com/books?id=5GTPmg_4-lwC</dc:source>
 		<meta property="se:word-count">134962</meta>
-		<meta property="se:reading-ease.flesch">64.2</meta>
+		<meta property="se:reading-ease.flesch">64.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_Search_of_the_Castaways</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_in-search-of-the-castaways_j-b-lippincott-co</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
