@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/in-search-of-the-castaways/j-b-lippincott-co</dc:identifier>
 		<dc:date>2022-07-05T04:31:30Z</dc:date>
@@ -59,11 +59,11 @@
 		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">5</meta>
-		<dc:description id="description">A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A Scottish lord and lady set off on a quest to find and rescue the shipwrecked Captain Grant.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Following the clues found in a bottle cast into the ocean, Lord and Lady Genarvan set off for South America and Australia in their ship &lt;i&gt;Duncan&lt;/i&gt; to search for the shipwrecked Captain Grant. Their eventful and perilous journey gives &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; the opportunity to describe a variety of exotic places.&lt;/p&gt;
 			&lt;p&gt;Originally titled &lt;i lang="fr"&gt;Les Enfants du Capitaine Grant&lt;/i&gt; (“The Children of Captain Grant”), the story has inspired several movie adaptations. Ayrton, one of the characters, reappears in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white"&gt;The Mysterious Island&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46597</dc:source>
 		<dc:source>https://books.google.com/books?id=5GTPmg_4-lwC</dc:source>
